@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2021 00:00,Ireland,Ireland,IE,293.43,369.32,39.29,39.05,Electricity Maps Estimation
+01/02/2021 00:00,Ireland,Ireland,IE,198.36,255.06,57.41,57.05,Electricity Maps Estimation
+01/03/2021 00:00,Ireland,Ireland,IE,274.3,349.82,42.66,41.93,Electricity Maps Estimation
+01/04/2021 00:00,Ireland,Ireland,IE,310.38,395.67,32.4,31.76,Electricity Maps Estimation
+01/05/2021 00:00,Ireland,Ireland,IE,289.77,372.87,36.4,35.05,Electricity Maps Estimation
+01/06/2021 00:00,Ireland,Ireland,IE,324.78,412.21,29.28,28.66,Electricity Maps Estimation
+01/07/2021 00:00,Ireland,Ireland,IE,354.16,453.15,22.11,20.04,Electricity Maps Estimation
+01/08/2021 00:00,Ireland,Ireland,IE,330.47,420.34,27.71,27.14,Electricity Maps Estimation
+01/09/2021 00:00,Ireland,Ireland,IE,353.86,445.12,26.47,26.01,Electricity Maps Estimation
+01/10/2021 00:00,Ireland,Ireland,IE,279.69,355.34,42.58,42.05,Electricity Maps Estimation
+01/11/2021 00:00,Ireland,Ireland,IE,291.61,367.7,40.05,39.73,Electricity Maps Estimation
+01/12/2021 00:00,Ireland,Ireland,IE,265.53,335.46,45.93,45.87,Electricity Maps Estimation

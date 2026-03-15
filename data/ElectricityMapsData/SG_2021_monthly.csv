@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2021 00:00,Singapore,Singapore,SG,372.92,492.46,2.73,2.73,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+01/02/2021 00:00,Singapore,Singapore,SG,372.86,492.27,3.01,3.01,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+01/03/2021 00:00,Singapore,Singapore,SG,372.73,492.27,2.77,2.77,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+01/04/2021 00:00,Singapore,Singapore,SG,371.43,490.91,2.66,2.66,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+01/05/2021 00:00,Singapore,Singapore,SG,371.24,490.84,2.44,2.44,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+01/06/2021 00:00,Singapore,Singapore,SG,371.66,491.28,2.57,2.57,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+01/07/2021 00:00,Singapore,Singapore,SG,371.18,490.8,2.32,2.32,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+01/08/2021 00:00,Singapore,Singapore,SG,371.76,491.44,2.42,2.42,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+01/09/2021 00:00,Singapore,Singapore,SG,371.32,490.92,2.5,2.5,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+01/10/2021 00:00,Singapore,Singapore,SG,371.06,490.54,2.83,2.83,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+01/11/2021 00:00,Singapore,Singapore,SG,372.88,492.42,3.66,3.66,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+01/12/2021 00:00,Singapore,Singapore,SG,371,490.39,3.16,3.16,Electricity Maps Estimation;  ema.gov.sg; emcsg.com

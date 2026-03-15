@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2023 00:00,Switzerland,Switzerland,CH,94.35,121.79,89.07,50.42,Electricity Maps Estimation
+01/02/2023 00:00,Switzerland,Switzerland,CH,102.75,139.27,87.34,54,Electricity Maps Estimation
+01/03/2023 00:00,Switzerland,Switzerland,CH,63.23,94.73,92.19,54.18,Electricity Maps Estimation
+01/04/2023 00:00,Switzerland,Switzerland,CH,55.39,87.66,93.27,52.64,Electricity Maps Estimation
+01/05/2023 00:00,Switzerland,Switzerland,CH,33.88,68.67,96.42,71.74,Electricity Maps Estimation
+01/06/2023 00:00,Switzerland,Switzerland,CH,29.99,66.25,96.68,70.33,Electricity Maps Estimation
+01/07/2023 00:00,Switzerland,Switzerland,CH,31.19,64.03,96.61,63.04,Electricity Maps Estimation
+01/08/2023 00:00,Switzerland,Switzerland,CH,31.06,62.48,96.88,64.5,Electricity Maps Estimation
+01/09/2023 00:00,Switzerland,Switzerland,CH,33.5,62.03,96.58,58.32,Electricity Maps Estimation
+01/10/2023 00:00,Switzerland,Switzerland,CH,37.46,60.72,96,49.54,Electricity Maps Estimation
+01/11/2023 00:00,Switzerland,Switzerland,CH,49.1,75.82,94.26,54.31,Electricity Maps Estimation
+01/12/2023 00:00,Switzerland,Switzerland,CH,53.18,79.01,93.54,51.6,Electricity Maps Estimation

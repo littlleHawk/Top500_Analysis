@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2024-01-01 00:00:00,Germany,Germany,DE,317.96,375.94,60.07,57.25,entsoe.eu
+2024-02-01 00:00:00,Germany,Germany,DE,282.24,338.44,65.14,61.63,entsoe.eu
+2024-03-01 00:00:00,Germany,Germany,DE,292.76,352.42,64.55,60.94,Electricity Maps Estimation; entsoe.eu
+2024-04-01 00:00:00,Germany,Germany,DE,225.47,281.83,71.93,68.49,entsoe.eu
+2024-05-01 00:00:00,Germany,Germany,DE,219.31,275.75,73.57,68.42,Electricity Maps Estimation; entsoe.eu
+2024-06-01 00:00:00,Germany,Germany,DE,231.10,286.45,72.54,67.34,entsoe.eu
+2024-07-01 00:00:00,Germany,Germany,DE,226.40,281.24,73.54,67.41,entsoe.eu
+2024-08-01 00:00:00,Germany,Germany,DE,245.93,303.43,70.78,64.37,entsoe.eu
+2024-09-01 00:00:00,Germany,Germany,DE,252.33,307.57,70.51,64.82,Electricity Maps Estimation; entsoe.eu
+2024-10-01 00:00:00,Germany,Germany,DE,311.86,370.07,64.06,58.22,Electricity Maps Estimation; entsoe.eu
+2024-11-01 00:00:00,Germany,Germany,DE,361.08,425.20,54.56,50.36,entsoe.eu
+2024-12-01 00:00:00,Germany,Germany,DE,311.47,372.11,59.84,56.37,entsoe.eu

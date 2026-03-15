@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2021 00:00,Slovenia,Slovenia,SI,291.89,313.71,67.27,42.71,entsoe.eu
+01/02/2021 00:00,Slovenia,Slovenia,SI,266.38,287.65,70.24,45.19,entsoe.eu; Electricity Maps Estimation
+01/03/2021 00:00,Slovenia,Slovenia,SI,297.43,320.31,66.92,37.68,entsoe.eu; Electricity Maps Estimation
+01/04/2021 00:00,Slovenia,Slovenia,SI,305.9,335.53,65,57.63,entsoe.eu; Electricity Maps Estimation
+01/05/2021 00:00,Slovenia,Slovenia,SI,143.94,160.89,84.44,60.68,entsoe.eu; Electricity Maps Estimation
+01/06/2021 00:00,Slovenia,Slovenia,SI,112.47,128.36,88.3,57.98,entsoe.eu
+01/07/2021 00:00,Slovenia,Slovenia,SI,146.37,163.9,84.83,53.84,entsoe.eu
+01/08/2021 00:00,Slovenia,Slovenia,SI,251.19,266.1,75.73,45.7,entsoe.eu
+01/09/2021 00:00,Slovenia,Slovenia,SI,271.16,292.77,71.46,38.57,entsoe.eu
+01/10/2021 00:00,Slovenia,Slovenia,SI,289.99,314.92,67.71,35.64,entsoe.eu; Electricity Maps Estimation
+01/11/2021 00:00,Slovenia,Slovenia,SI,313.79,338.39,64.59,34.05,entsoe.eu
+01/12/2021 00:00,Slovenia,Slovenia,SI,297.36,320.36,66.64,37.65,entsoe.eu; Electricity Maps Estimation

@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2023 00:00,Greece,Greece,GR,341.02,401.56,49.26,46.35,entsoe.eu; Electricity Maps Estimation
+01/02/2023 00:00,Greece,Greece,GR,373.91,434.04,47.78,45.49,entsoe.eu; Electricity Maps Estimation
+01/03/2023 00:00,Greece,Greece,GR,313.49,373.3,52.06,49.57,entsoe.eu; Electricity Maps Estimation
+01/04/2023 00:00,Greece,Greece,GR,296.22,359.67,49.68,46.89,entsoe.eu; Electricity Maps Estimation
+01/05/2023 00:00,Greece,Greece,GR,250.99,308.05,58.18,56.76,entsoe.eu; Electricity Maps Estimation
+01/06/2023 00:00,Greece,Greece,GR,270.22,338.36,49.98,47.86,entsoe.eu; Electricity Maps Estimation
+01/07/2023 00:00,Greece,Greece,GR,326.98,393.87,46.3,43.34,entsoe.eu; Electricity Maps Estimation
+01/08/2023 00:00,Greece,Greece,GR,262.49,323.57,54.22,51.99,entsoe.eu; Electricity Maps Estimation
+01/09/2023 00:00,Greece,Greece,GR,237.93,300.66,54.37,52.17,entsoe.eu
+01/10/2023 00:00,Greece,Greece,GR,291.92,355.68,50.91,49.22,entsoe.eu; Electricity Maps Estimation
+01/11/2023 00:00,Greece,Greece,GR,294.79,352,54.63,53.03,entsoe.eu; Electricity Maps Estimation
+01/12/2023 00:00,Greece,Greece,GR,313.46,371.49,52.5,49.46,entsoe.eu; Electricity Maps Estimation

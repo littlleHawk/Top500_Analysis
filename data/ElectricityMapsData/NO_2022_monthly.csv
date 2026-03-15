@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2022 00:00,Norway,Norway,NO,10.23,34.75,98.38,96.9,entsoe.eu
+01/02/2022 00:00,Norway,Norway,NO,11.9,36.58,98.2,96.35,entsoe.eu
+01/03/2022 00:00,Norway,Norway,NO,8.32,32.83,98.68,97,entsoe.eu
+01/04/2022 00:00,Norway,Norway,NO,17,43.19,97.53,94.36,entsoe.eu
+01/05/2022 00:00,Norway,Norway,NO,10.97,36.12,97.93,95.86,entsoe.eu
+01/06/2022 00:00,Norway,Norway,NO,7.1,32.13,98.49,97.6,entsoe.eu
+01/07/2022 00:00,Norway,Norway,NO,10.15,35.45,97.82,96.18,entsoe.eu
+01/08/2022 00:00,Norway,Norway,NO,12.15,38.03,97.34,95.69,entsoe.eu
+01/09/2022 00:00,Norway,Norway,NO,26.57,54.38,95.04,91.4,entsoe.eu
+01/10/2022 00:00,Norway,Norway,NO,13.51,38.47,97.09,94.32,entsoe.eu
+01/11/2022 00:00,Norway,Norway,NO,6.65,30.69,98.46,97.86,entsoe.eu
+01/12/2022 00:00,Norway,Norway,NO,16.15,41.81,97.35,95.84,entsoe.eu

@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2021 00:00,Israel,Israel,IL,451.29,552.14,4.69,4.69,Electricity Maps Estimation
+01/02/2021 00:00,Israel,Israel,IL,461.47,560.86,4.57,4.57,Electricity Maps Estimation
+01/03/2021 00:00,Israel,Israel,IL,442.18,541.95,6.59,6.59,Electricity Maps Estimation
+01/04/2021 00:00,Israel,Israel,IL,429.98,529.05,8.63,8.63,Electricity Maps Estimation
+01/05/2021 00:00,Israel,Israel,IL,414.68,514.73,9.66,9.66,Electricity Maps Estimation
+01/06/2021 00:00,Israel,Israel,IL,422.58,523.65,8.1,8.1,Electricity Maps Estimation
+01/07/2021 00:00,Israel,Israel,IL,425.52,526.72,7.59,7.59,Electricity Maps Estimation
+01/08/2021 00:00,Israel,Israel,IL,434.85,535.86,6.63,6.63,Electricity Maps Estimation
+01/09/2021 00:00,Israel,Israel,IL,439.68,540.75,6,6,Electricity Maps Estimation
+01/10/2021 00:00,Israel,Israel,IL,436.83,538.08,6.19,6.19,Electricity Maps Estimation
+01/11/2021 00:00,Israel,Israel,IL,443.73,544.83,5.53,5.53,Electricity Maps Estimation
+01/12/2021 00:00,Israel,Israel,IL,445.24,545.64,5.72,5.72,Electricity Maps Estimation

@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2021-01-01 00:00:00,Finland,Finland,FI,184.14,226.04,71.14,42.36,entsoe.eu
+2021-02-01 00:00:00,Finland,Finland,FI,188.22,231.36,70.94,43.28,entsoe.eu
+2021-03-01 00:00:00,Finland,Finland,FI,142.76,182.18,77.00,47.21,entsoe.eu
+2021-04-01 00:00:00,Finland,Finland,FI,116.22,154.28,81.61,50.03,entsoe.eu
+2021-05-01 00:00:00,Finland,Finland,FI,107.93,141.23,82.51,54.11,entsoe.eu
+2021-06-01 00:00:00,Finland,Finland,FI,79.98,108.29,85.83,52.02,entsoe.eu
+2021-07-01 00:00:00,Finland,Finland,FI,53.96,85.25,90.11,50.29,entsoe.eu
+2021-08-01 00:00:00,Finland,Finland,FI,98.22,125.22,83.20,47.77,entsoe.eu
+2021-09-01 00:00:00,Finland,Finland,FI,134.30,166.95,79.14,49.49,entsoe.eu
+2021-10-01 00:00:00,Finland,Finland,FI,110.39,143.54,82.99,49.87,entsoe.eu
+2021-11-01 00:00:00,Finland,Finland,FI,130.43,166.59,80.79,50.57,entsoe.eu
+2021-12-01 00:00:00,Finland,Finland,FI,189.03,229.88,72.12,44.75,entsoe.eu

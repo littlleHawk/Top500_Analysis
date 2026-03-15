@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2022 00:00,New Zealand,New Zealand,NZ,57.81,94.1,87.92,87.92,Electricity Maps Estimation
+01/02/2022 00:00,New Zealand,New Zealand,NZ,83.66,123.75,83.19,83.19,transpower.co.nz; Electricity Maps Estimation
+01/03/2022 00:00,New Zealand,New Zealand,NZ,91.98,134.69,80.54,80.54,transpower.co.nz; Electricity Maps Estimation
+01/04/2022 00:00,New Zealand,New Zealand,NZ,109.42,153.54,77.98,77.98,transpower.co.nz; Electricity Maps Estimation
+01/05/2022 00:00,New Zealand,New Zealand,NZ,100.92,143.88,79.36,79.36,transpower.co.nz; Electricity Maps Estimation
+01/06/2022 00:00,New Zealand,New Zealand,NZ,64.78,104.39,84.9,84.9,transpower.co.nz; Electricity Maps Estimation
+01/07/2022 00:00,New Zealand,New Zealand,NZ,60.3,98.62,86.16,86.16,transpower.co.nz
+01/08/2022 00:00,New Zealand,New Zealand,NZ,44.8,77.94,91.16,91.16,transpower.co.nz; Electricity Maps Estimation
+01/09/2022 00:00,New Zealand,New Zealand,NZ,37.22,69.5,92.52,92.52,transpower.co.nz; Electricity Maps Estimation
+01/10/2022 00:00,New Zealand,New Zealand,NZ,32.83,65.08,92.83,92.83,transpower.co.nz; Electricity Maps Estimation
+01/11/2022 00:00,New Zealand,New Zealand,NZ,18.74,46.77,96.81,96.81,transpower.co.nz; Electricity Maps Estimation
+01/12/2022 00:00,New Zealand,New Zealand,NZ,20.5,49.84,96.31,96.31,transpower.co.nz; Electricity Maps Estimation

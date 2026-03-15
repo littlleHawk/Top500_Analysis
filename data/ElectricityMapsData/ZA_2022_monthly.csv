@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2022 00:00,South Africa,South Africa,ZA,639.23,693.29,17.93,12.66,eskom.co.za
+01/02/2022 00:00,South Africa,South Africa,ZA,660.72,716.88,14.86,11.29,eskom.co.za
+01/03/2022 00:00,South Africa,South Africa,ZA,661.2,716.92,15,11.35,eskom.co.za
+01/04/2022 00:00,South Africa,South Africa,ZA,650.75,707.07,16.43,12.76,eskom.co.za
+01/05/2022 00:00,South Africa,South Africa,ZA,666.72,723.9,13.99,10.4,eskom.co.za
+01/06/2022 00:00,South Africa,South Africa,ZA,669.57,727.82,13.33,9.83,eskom.co.za
+01/07/2022 00:00,South Africa,South Africa,ZA,669.33,725.79,13.52,9.99,eskom.co.za
+01/08/2022 00:00,South Africa,South Africa,ZA,652.47,707.99,15.79,10.55,eskom.co.za
+01/09/2022 00:00,South Africa,South Africa,ZA,647.91,706.35,16.05,11.36,eskom.co.za
+01/10/2022 00:00,South Africa,South Africa,ZA,629.29,685.07,18.7,11.12,eskom.co.za
+01/11/2022 00:00,South Africa,South Africa,ZA,618.06,671.49,20.62,13.69,eskom.co.za
+01/12/2022 00:00,South Africa,South Africa,ZA,613.73,669.32,20.78,15.62,eskom.co.za

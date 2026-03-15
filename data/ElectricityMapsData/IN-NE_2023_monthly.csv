@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2023 00:00,India,North Eastern India,IN-NE,425.19,509.35,18.26,18.16,Electricity Maps Estimation
+01/02/2023 00:00,India,North Eastern India,IN-NE,450.35,533.92,16.08,15.93,Electricity Maps Estimation
+01/03/2023 00:00,India,North Eastern India,IN-NE,403.26,488.47,19.86,19.74,Electricity Maps Estimation
+01/04/2023 00:00,India,North Eastern India,IN-NE,424.74,507.36,19.35,19.27,Electricity Maps Estimation
+01/05/2023 00:00,India,North Eastern India,IN-NE,402.6,483.75,22.57,22.52,Electricity Maps Estimation
+01/06/2023 00:00,India,North Eastern India,IN-NE,340.87,411.98,35.34,35.31,Electricity Maps Estimation
+01/07/2023 00:00,India,North Eastern India,IN-NE,282.79,349.81,43.79,43.79,Electricity Maps Estimation
+01/08/2023 00:00,India,North Eastern India,IN-NE,280.3,346.44,44.57,44.57,Electricity Maps Estimation
+01/09/2023 00:00,India,North Eastern India,IN-NE,289.27,357.14,42.57,42.57,Electricity Maps Estimation
+01/10/2023 00:00,India,North Eastern India,IN-NE,319.03,390.12,37.47,37.47,Electricity Maps Estimation
+01/11/2023 00:00,India,North Eastern India,IN-NE,379.39,458.42,26.27,26.19,Electricity Maps Estimation
+01/12/2023 00:00,India,North Eastern India,IN-NE,444.9,522.88,20.34,20.13,Electricity Maps Estimation

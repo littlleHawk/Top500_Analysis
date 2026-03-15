@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2021 00:00,Sweden,Sweden,SE,9.67,38.09,98.44,66.34,svk.se
+01/02/2021 00:00,Sweden,Sweden,SE,13.9,42.88,97.89,67.12,svk.se
+01/03/2021 00:00,Sweden,Sweden,SE,4.74,31.62,99.09,67.58,svk.se
+01/04/2021 00:00,Sweden,Sweden,SE,4.09,30.77,99.2,67.3,svk.se
+01/05/2021 00:00,Sweden,Sweden,SE,6.02,33.99,98.9,65.49,svk.se
+01/06/2021 00:00,Sweden,Sweden,SE,4.43,32.18,99.13,65.49,svk.se
+01/07/2021 00:00,Sweden,Sweden,SE,3.12,30.17,99.33,66.59,svk.se
+01/08/2021 00:00,Sweden,Sweden,SE,6.56,34.35,98.95,65.09,svk.se
+01/09/2021 00:00,Sweden,Sweden,SE,4.89,31.86,99.12,66.53,svk.se
+01/10/2021 00:00,Sweden,Sweden,SE,2.9,28.36,99.38,69.22,svk.se
+01/11/2021 00:00,Sweden,Sweden,SE,4.6,31,99.15,68,svk.se
+01/12/2021 00:00,Sweden,Sweden,SE,9.29,36.61,98.59,67.97,svk.se

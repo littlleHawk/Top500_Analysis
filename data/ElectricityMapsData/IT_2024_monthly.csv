@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2024 00:00,Italy,Italy,IT,235.89,303.62,51.23,42.76,
+01/02/2024 00:00,Italy,Italy,IT,227.89,293.9,53.87,43.89,
+01/03/2024 00:00,Italy,Italy,IT,195.94,255.61,60.17,52.31,
+01/04/2024 00:00,Italy,Italy,IT,170.75,224.12,66.23,59.99,
+01/05/2024 00:00,Italy,Italy,IT,158.81,208.8,68.82,60.37,
+01/06/2024 00:00,Italy,Italy,IT,172.93,226.3,65.19,57.98,
+01/07/2024 00:00,Italy,Italy,IT,200.89,261.76,57.8,50.09,
+01/08/2024 00:00,Italy,Italy,IT,223.48,292.06,52.53,44.7,
+01/09/2024 00:00,Italy,Italy,IT,220.85,287.79,53.55,46.08,
+01/10/2024 00:00,Italy,Italy,IT,209.95,270.65,57.56,48.92,
+01/11/2024 00:00,Italy,Italy,IT,254.65,332.2,46.93,38.38,
+01/12/2024 00:00,Italy,Italy,IT,245.87,320.57,47.29,38.41,

@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2024 00:00,Greece,Greece,GR,272.11,328.72,54.7,52.85,entsoe.eu
+01/02/2024 00:00,Greece,Greece,GR,292.31,349.04,53.21,50.08,entsoe.eu
+01/03/2024 00:00,Greece,Greece,GR,274.96,336.47,51.68,48.69,entsoe.eu; Electricity Maps Estimation
+01/04/2024 00:00,Greece,Greece,GR,221.97,277.68,59.72,57.45,entsoe.eu
+01/05/2024 00:00,Greece,Greece,GR,218.44,284.83,52.11,51.39,entsoe.eu; Electricity Maps Estimation
+01/06/2024 00:00,Greece,Greece,GR,242.29,307.15,51.6,50.89,entsoe.eu; Electricity Maps Estimation
+01/07/2024 00:00,Greece,Greece,GR,264.38,329.84,50.2,49.14,entsoe.eu
+01/08/2024 00:00,Greece,Greece,GR,261.28,327.77,49.68,47.7,entsoe.eu
+01/09/2024 00:00,Greece,Greece,GR,251.96,317.98,50.69,47.22,entsoe.eu
+01/10/2024 00:00,Greece,Greece,GR,200.66,259.23,58.83,56.34,entsoe.eu
+01/11/2024 00:00,Greece,Greece,GR,311.99,384.28,41.87,41.64,entsoe.eu
+01/12/2024 00:00,Greece,Greece,GR,319.57,390.32,42.09,41.14,entsoe.eu

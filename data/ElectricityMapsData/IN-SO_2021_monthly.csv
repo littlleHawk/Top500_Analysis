@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2021 00:00,India,Southern India,IN-SO,461.85,512.02,38.47,32.19,Electricity Maps Estimation
+01/02/2021 00:00,India,Southern India,IN-SO,486.84,538.09,35.25,30.14,Electricity Maps Estimation
+01/03/2021 00:00,India,Southern India,IN-SO,515.49,568.15,31.29,26.86,Electricity Maps Estimation
+01/04/2021 00:00,India,Southern India,IN-SO,526.85,579.34,29.97,24.87,Electricity Maps Estimation
+01/05/2021 00:00,India,Southern India,IN-SO,442.02,490.07,40.98,33.22,Electricity Maps Estimation
+01/06/2021 00:00,India,Southern India,IN-SO,409.48,455.06,45.3,38.85,Electricity Maps Estimation
+01/07/2021 00:00,India,Southern India,IN-SO,419,465,44.18,39.57,Electricity Maps Estimation
+01/08/2021 00:00,India,Southern India,IN-SO,436.45,483.82,41.9,38.13,Electricity Maps Estimation
+01/09/2021 00:00,India,Southern India,IN-SO,421.07,467.92,43.87,37.55,Electricity Maps Estimation
+01/10/2021 00:00,India,Southern India,IN-SO,438.76,487.33,41.63,34.41,Electricity Maps Estimation
+01/11/2021 00:00,India,Southern India,IN-SO,419.21,467.73,44.14,36.02,Electricity Maps Estimation
+01/12/2021 00:00,India,Southern India,IN-SO,439.34,487.92,41.6,33.46,Electricity Maps Estimation

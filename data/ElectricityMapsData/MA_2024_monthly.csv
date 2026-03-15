@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2024 00:00,Morocco,Morocco,MA,522.89,578.59,25.96,25.16,Electricity Maps Estimation
+01/02/2024 00:00,Morocco,Morocco,MA,479.76,529.44,33.77,33,Electricity Maps Estimation
+01/03/2024 00:00,Morocco,Morocco,MA,476.59,528.01,33.13,31.88,Electricity Maps Estimation
+01/04/2024 00:00,Morocco,Morocco,MA,440.69,491.8,36.9,35.28,Electricity Maps Estimation
+01/05/2024 00:00,Morocco,Morocco,MA,411.32,461.28,40.39,38.71,Electricity Maps Estimation
+01/06/2024 00:00,Morocco,Morocco,MA,431.65,481.25,38.64,37.32,Electricity Maps Estimation
+01/07/2024 00:00,Morocco,Morocco,MA,438.64,490.22,36.55,34.69,Electricity Maps Estimation
+01/08/2024 00:00,Morocco,Morocco,MA,469.21,521.92,32.81,31.03,Electricity Maps Estimation
+01/09/2024 00:00,Morocco,Morocco,MA,469.36,522.78,32.56,30.35,Electricity Maps Estimation
+01/10/2024 00:00,Morocco,Morocco,MA,513.53,569.61,27.01,25.02,Electricity Maps Estimation
+01/11/2024 00:00,Morocco,Morocco,MA,519.65,576.76,25.65,24.13,Electricity Maps Estimation
+01/12/2024 00:00,Morocco,Morocco,MA,544.55,602.49,22.6,22.2,Electricity Maps Estimation

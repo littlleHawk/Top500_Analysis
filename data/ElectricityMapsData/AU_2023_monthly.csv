@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage
+01/01/2023 00:00,Australia,Australia,AU,439.66,492.89,38.54,38.54
+01/02/2023 00:00,Australia,Australia,AU,445.79,498.57,38.1,38.1
+01/03/2023 00:00,Australia,Australia,AU,462.2,516.99,34.8,34.8
+01/04/2023 00:00,Australia,Australia,AU,458.05,512.63,35.18,35.18
+01/05/2023 00:00,Australia,Australia,AU,463.04,518.17,33.78,33.78
+01/06/2023 00:00,Australia,Australia,AU,457.79,511.14,34.93,34.93
+01/07/2023 00:00,Australia,Australia,AU,456.03,508.83,35.61,35.61
+01/08/2023 00:00,Australia,Australia,AU,447.73,502.22,36.35,36.35
+01/09/2023 00:00,Australia,Australia,AU,415.47,467.63,41.68,41.68
+01/10/2023 00:00,Australia,Australia,AU,400.13,450.33,44.8,44.8
+01/11/2023 00:00,Australia,Australia,AU,415.7,468.24,41.84,41.84
+01/12/2023 00:00,Australia,Australia,AU,415.42,466.86,42.64,42.64

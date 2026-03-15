@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2022 00:00,Poland,Poland,PL,784.47,865.09,24.58,23.18,entsoe.eu
+01/02/2022 00:00,Poland,Poland,PL,741.73,818.81,28.96,27.67,entsoe.eu
+01/03/2022 00:00,Poland,Poland,PL,843.75,928.04,20.15,18.85,entsoe.eu
+01/04/2022 00:00,Poland,Poland,PL,774.67,853.68,27.06,25.46,entsoe.eu
+01/05/2022 00:00,Poland,Poland,PL,761.35,840.73,27.7,26.04,entsoe.eu
+01/06/2022 00:00,Poland,Poland,PL,783.96,865.09,25.76,23.86,entsoe.eu
+01/07/2022 00:00,Poland,Poland,PL,763.32,841.31,28.43,26.16,entsoe.eu
+01/08/2022 00:00,Poland,Poland,PL,832.53,913.17,22.7,20.39,entsoe.eu
+01/09/2022 00:00,Poland,Poland,PL,838.74,919.48,22.26,20.78,entsoe.eu
+01/10/2022 00:00,Poland,Poland,PL,783,862.36,26.32,24.8,entsoe.eu
+01/11/2022 00:00,Poland,Poland,PL,854.89,940.25,19.11,17.87,entsoe.eu
+01/12/2022 00:00,Poland,Poland,PL,847.32,931.84,19.82,19.03,entsoe.eu

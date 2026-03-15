@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2024-01-01 00:00:00,Czechia,Czechia,CZ,464.95,506.27,53.14,17.20,ceps.cz
+2024-02-01 00:00:00,Czechia,Czechia,CZ,468.31,509.09,54.00,17.79,ceps.cz
+2024-03-01 00:00:00,Czechia,Czechia,CZ,449.10,489.27,55.78,18.04,ceps.cz
+2024-04-01 00:00:00,Czechia,Czechia,CZ,397.27,436.24,60.96,22.85,ceps.cz
+2024-05-01 00:00:00,Czechia,Czechia,CZ,393.55,433.44,61.38,25.95,ceps.cz
+2024-06-01 00:00:00,Czechia,Czechia,CZ,379.86,419.56,62.19,25.99,ceps.cz
+2024-07-01 00:00:00,Czechia,Czechia,CZ,365.48,402.45,64.27,23.21,ceps.cz
+2024-08-01 00:00:00,Czechia,Czechia,CZ,390.01,429.99,60.95,23.08,ceps.cz
+2024-09-01 00:00:00,Czechia,Czechia,CZ,400.49,438.57,60.17,20.48,ceps.cz
+2024-10-01 00:00:00,Czechia,Czechia,CZ,479.11,521.84,52.07,17.47,ceps.cz
+2024-11-01 00:00:00,Czechia,Czechia,CZ,543.03,591.88,43.54,14.62,ceps.cz
+2024-12-01 00:00:00,Czechia,Czechia,CZ,492.02,535.96,49.86,15.36,ceps.cz

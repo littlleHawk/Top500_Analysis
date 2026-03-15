@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2023-01-01 00:00:00,Belgium,Belgium,BE,144.70,195.06,69.80,29.83,entsoe.eu
+2023-02-01 00:00:00,Belgium,Belgium,BE,181.04,243.17,61.40,27.44,Electricity Maps Estimation; entsoe.eu
+2023-03-01 00:00:00,Belgium,Belgium,BE,151.91,204.66,67.77,33.89,Electricity Maps Estimation; entsoe.eu
+2023-04-01 00:00:00,Belgium,Belgium,BE,143.04,194.86,70.12,35.23,Electricity Maps Estimation; entsoe.eu
+2023-05-01 00:00:00,Belgium,Belgium,BE,109.53,155.68,76.40,36.65,Electricity Maps Estimation; entsoe.eu
+2023-06-01 00:00:00,Belgium,Belgium,BE,120.44,169.30,72.59,34.45,entsoe.eu
+2023-07-01 00:00:00,Belgium,Belgium,BE,103.10,147.53,77.13,36.19,entsoe.eu
+2023-08-01 00:00:00,Belgium,Belgium,BE,118.93,168.65,72.91,31.00,entsoe.eu
+2023-09-01 00:00:00,Belgium,Belgium,BE,120.44,172.00,73.27,32.12,entsoe.eu
+2023-10-01 00:00:00,Belgium,Belgium,BE,110.88,154.36,77.50,37.35,Electricity Maps Estimation; entsoe.eu
+2023-11-01 00:00:00,Belgium,Belgium,BE,111.81,153.02,77.54,36.23,entsoe.eu
+2023-12-01 00:00:00,Belgium,Belgium,BE,121.29,165.00,75.07,35.82,entsoe.eu

@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2021-01-01 00:00:00,Germany,Germany,DE,432.89,500.54,52.01,38.46,entsoe.eu
+2021-02-01 00:00:00,Germany,Germany,DE,362.40,426.44,58.38,43.90,entsoe.eu
+2021-03-01 00:00:00,Germany,Germany,DE,344.88,411.30,59.90,47.09,entsoe.eu
+2021-04-01 00:00:00,Germany,Germany,DE,332.56,399.07,62.05,49.55,entsoe.eu
+2021-05-01 00:00:00,Germany,Germany,DE,266.96,328.31,70.15,55.68,entsoe.eu
+2021-06-01 00:00:00,Germany,Germany,DE,362.86,429.60,59.99,45.36,entsoe.eu
+2021-07-01 00:00:00,Germany,Germany,DE,343.80,407.55,62.70,46.36,entsoe.eu
+2021-08-01 00:00:00,Germany,Germany,DE,318.83,378.09,67.03,49.50,entsoe.eu
+2021-09-01 00:00:00,Germany,Germany,DE,437.12,503.42,54.96,40.01,entsoe.eu
+2021-10-01 00:00:00,Germany,Germany,DE,371.17,431.90,61.51,48.59,entsoe.eu
+2021-11-01 00:00:00,Germany,Germany,DE,451.02,519.50,51.28,38.32,entsoe.eu
+2021-12-01 00:00:00,Germany,Germany,DE,432.22,499.20,53.11,40.60,entsoe.eu

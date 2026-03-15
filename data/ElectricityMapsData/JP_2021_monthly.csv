@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2021 00:00,Japan,Japan,JP,431.87,511.17,21.16,17.56,
+01/02/2021 00:00,Japan,Japan,JP,417.14,495.13,23.85,19.88,
+01/03/2021 00:00,Japan,Japan,JP,403.52,479.34,26.35,20.89,
+01/04/2021 00:00,Japan,Japan,JP,379.94,452.84,30.65,23,
+01/05/2021 00:00,Japan,Japan,JP,384.15,456.11,29.91,21.25,
+01/06/2021 00:00,Japan,Japan,JP,390.02,463.83,28.82,21,
+01/07/2021 00:00,Japan,Japan,JP,393.53,467.33,28.18,19.72,
+01/08/2021 00:00,Japan,Japan,JP,398.42,472.9,27.28,18.68,
+01/09/2021 00:00,Japan,Japan,JP,389.21,462.7,28.96,19.09,
+01/10/2021 00:00,Japan,Japan,JP,386.65,460.56,29.41,19.93,
+01/11/2021 00:00,Japan,Japan,JP,400.11,475.14,26.96,18.96,
+01/12/2021 00:00,Japan,Japan,JP,413.71,489.39,24.5,17.23,

@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2023-01-01 00:00:00,Croatia,Croatia,HR,230.04,263.51,68.62,61.39,entsoe.eu; Electricity Maps Estimation
+2023-02-01 00:00:00,Croatia,Croatia,HR,260.49,306.60,60.35,54.74,entsoe.eu; Electricity Maps Estimation
+2023-03-01 00:00:00,Croatia,Croatia,HR,258.77,299.43,62.32,60.03,entsoe.eu; Electricity Maps Estimation
+2023-04-01 00:00:00,Croatia,Croatia,HR,221.59,265.23,63.91,57.53,entsoe.eu; Electricity Maps Estimation
+2023-05-01 00:00:00,Croatia,Croatia,HR,122.15,150.49,80.03,75.92,entsoe.eu; Electricity Maps Estimation
+2023-06-01 00:00:00,Croatia,Croatia,HR,241.38,278.48,65.88,62.02,entsoe.eu; Electricity Maps Estimation
+2023-07-01 00:00:00,Croatia,Croatia,HR,239.18,283.85,63.76,53.66,entsoe.eu
+2023-08-01 00:00:00,Croatia,Croatia,HR,248.60,291.16,63.91,55.18,entsoe.eu
+2023-09-01 00:00:00,Croatia,Croatia,HR,310.51,360.37,53.93,46.94,entsoe.eu
+2023-10-01 00:00:00,Croatia,Croatia,HR,279.05,322.77,60.40,47.55,entsoe.eu; Electricity Maps Estimation
+2023-11-01 00:00:00,Croatia,Croatia,HR,214.80,245.85,70.76,66.00,entsoe.eu; Electricity Maps Estimation
+2023-12-01 00:00:00,Croatia,Croatia,HR,164.86,196.31,75.48,65.79,entsoe.eu

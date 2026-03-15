@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2024 00:00,Thailand,Thailand,TH,376.53,497.33,18.56,18.56,Electricity Maps Estimation
+01/02/2024 00:00,Thailand,Thailand,TH,389.65,508.24,17.35,17.35,Electricity Maps Estimation
+01/03/2024 00:00,Thailand,Thailand,TH,389.21,507.86,17.21,17.21,Electricity Maps Estimation
+01/04/2024 00:00,Thailand,Thailand,TH,385.15,503.49,17.72,17.72,Electricity Maps Estimation
+01/05/2024 00:00,Thailand,Thailand,TH,379.86,498.83,18.47,18.47,Electricity Maps Estimation
+01/06/2024 00:00,Thailand,Thailand,TH,378.99,497.79,18.74,18.74,Electricity Maps Estimation
+01/07/2024 00:00,Thailand,Thailand,TH,377.01,496.25,18.73,18.73,Electricity Maps Estimation
+01/08/2024 00:00,Thailand,Thailand,TH,378.12,497.2,18.85,18.85,Electricity Maps Estimation
+01/09/2024 00:00,Thailand,Thailand,TH,379.21,498.57,18.61,18.61,Electricity Maps Estimation
+01/10/2024 00:00,Thailand,Thailand,TH,378.93,498.6,18.7,18.7,Electricity Maps Estimation
+01/11/2024 00:00,Thailand,Thailand,TH,378.62,498.35,18.57,18.57,Electricity Maps Estimation
+01/12/2024 00:00,Thailand,Thailand,TH,377.2,497.1,18.57,18.57,Electricity Maps Estimation

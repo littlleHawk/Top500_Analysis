@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2024 00:00,Slovakia,Slovakia,SK,198.37,230.7,75.16,24.5,entsoe.eu
+01/02/2024 00:00,Slovakia,Slovakia,SK,172.18,202.52,78.3,26.11,entsoe.eu
+01/03/2024 00:00,Slovakia,Slovakia,SK,172.78,203.46,78.03,21.99,entsoe.eu
+01/04/2024 00:00,Slovakia,Slovakia,SK,138.34,166.57,82.09,26.47,entsoe.eu
+01/05/2024 00:00,Slovakia,Slovakia,SK,160.59,191.56,80.65,26.8,entsoe.eu
+01/06/2024 00:00,Slovakia,Slovakia,SK,200.28,234.77,76.4,33.07,entsoe.eu
+01/07/2024 00:00,Slovakia,Slovakia,SK,204.74,238.14,76.19,27.97,entsoe.eu
+01/08/2024 00:00,Slovakia,Slovakia,SK,233.86,269.55,72.78,23.16,entsoe.eu
+01/09/2024 00:00,Slovakia,Slovakia,SK,205.56,237.11,75.25,23.53,entsoe.eu
+01/10/2024 00:00,Slovakia,Slovakia,SK,185.35,217.56,76.45,20.33,entsoe.eu
+01/11/2024 00:00,Slovakia,Slovakia,SK,292.92,335.23,63.85,16.18,entsoe.eu
+01/12/2024 00:00,Slovakia,Slovakia,SK,291,331.35,65.23,16.63,entsoe.eu

@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2023 00:00,Sweden,Sweden,SE,4.47,27.81,99.47,71.72,entsoe.eu
+01/02/2023 00:00,Sweden,Sweden,SE,2.75,25.65,99.69,72.94,entsoe.eu
+01/03/2023 00:00,Sweden,Sweden,SE,5.23,29.8,99.35,72.54,entsoe.eu
+01/04/2023 00:00,Sweden,Sweden,SE,3.78,25.81,99.52,67.09,entsoe.eu
+01/05/2023 00:00,Sweden,Sweden,SE,2.78,22.92,99.68,71.92,entsoe.eu
+01/06/2023 00:00,Sweden,Sweden,SE,2.57,20.31,99.7,66.57,entsoe.eu
+01/07/2023 00:00,Sweden,Sweden,SE,2.86,20.03,99.61,66.38,entsoe.eu
+01/08/2023 00:00,Sweden,Sweden,SE,1.74,17.21,99.76,71.49,entsoe.eu
+01/09/2023 00:00,Sweden,Sweden,SE,1.45,16.86,99.82,73.2,entsoe.eu
+01/10/2023 00:00,Sweden,Sweden,SE,1.71,17.32,99.79,70.56,entsoe.eu
+01/11/2023 00:00,Sweden,Sweden,SE,4.96,26.28,99.42,68.98,entsoe.eu
+01/12/2023 00:00,Sweden,Sweden,SE,12.28,35.95,98.53,68.62,entsoe.eu

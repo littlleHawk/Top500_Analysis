@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2021-01-01 00:00:00,Belgium,Belgium,BE,177.21,236.22,62.54,22.01,entsoe.eu
+2021-02-01 00:00:00,Belgium,Belgium,BE,130.55,179.03,71.32,23.84,entsoe.eu
+2021-03-01 00:00:00,Belgium,Belgium,BE,136.65,188.39,69.62,22.44,entsoe.eu
+2021-04-01 00:00:00,Belgium,Belgium,BE,147.96,203.57,67.19,23.77,entsoe.eu
+2021-05-01 00:00:00,Belgium,Belgium,BE,105.90,148.69,76.66,25.13,entsoe.eu
+2021-06-01 00:00:00,Belgium,Belgium,BE,108.28,153.53,75.51,19.78,entsoe.eu
+2021-07-01 00:00:00,Belgium,Belgium,BE,94.49,137.08,79.22,22.53,entsoe.eu
+2021-08-01 00:00:00,Belgium,Belgium,BE,84.50,124.40,81.71,24.06,entsoe.eu
+2021-09-01 00:00:00,Belgium,Belgium,BE,92.34,130.02,81.45,24.12,entsoe.eu
+2021-10-01 00:00:00,Belgium,Belgium,BE,81.28,115.79,83.34,28.79,entsoe.eu
+2021-11-01 00:00:00,Belgium,Belgium,BE,151.53,204.14,66.48,21.31,entsoe.eu
+2021-12-01 00:00:00,Belgium,Belgium,BE,126.66,171.30,73.07,22.74,entsoe.eu

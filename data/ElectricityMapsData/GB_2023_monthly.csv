@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2023 00:00,Great Britain,Great Britain,GB,126.94,181.69,68.71,51.94, nationalgrideso.com; elexon.co.uk
+01/02/2023 00:00,Great Britain,Great Britain,GB,145,208.38,63.52,49.82, nationalgrideso.com; elexon.co.uk
+01/03/2023 00:00,Great Britain,Great Britain,GB,138.83,200.55,64.25,48.59,elexon.co.uk;  nationalgrideso.com; Electricity Maps Estimation; bmreports.com
+01/04/2023 00:00,Great Britain,Great Britain,GB,130.66,193.6,65.81,49.28, nationalgrideso.com; Electricity Maps Estimation; elexon.co.uk
+01/05/2023 00:00,Great Britain,Great Britain,GB,122.68,179.69,67.59,47.22, nationalgrideso.com; Electricity Maps Estimation; elexon.co.uk
+01/06/2023 00:00,Great Britain,Great Britain,GB,132.68,192.18,65.11,46.05, nationalgrideso.com; Electricity Maps Estimation; elexon.co.uk
+01/07/2023 00:00,Great Britain,Great Britain,GB,111.12,167.62,71.03,54.37, nationalgrideso.com; elexon.co.uk
+01/08/2023 00:00,Great Britain,Great Britain,GB,130.66,191.04,65.87,49, nationalgrideso.com; elexon.co.uk
+01/09/2023 00:00,Great Britain,Great Britain,GB,130.53,188.85,66.85,47.62, nationalgrideso.com; Electricity Maps Estimation; elexon.co.uk
+01/10/2023 00:00,Great Britain,Great Britain,GB,116.18,172.49,71.09,53.67,elexon.co.uk;  nationalgrideso.com; bmreports.com
+01/11/2023 00:00,Great Britain,Great Britain,GB,141.29,205.08,65.25,50.09, nationalgrideso.com; elexon.co.uk
+01/12/2023 00:00,Great Britain,Great Britain,GB,117.16,172.62,70.58,54.13,elexon.co.uk;  nationalgrideso.com; Electricity Maps Estimation; bmreports.com

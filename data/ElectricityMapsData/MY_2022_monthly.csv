@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2022 00:00,Malaysia,Malaysia,MY,457.8,535.34,21.17,21.17,
+01/02/2022 00:00,Malaysia,Malaysia,MY,468.61,545.98,19.39,19.39,
+01/03/2022 00:00,Malaysia,Malaysia,MY,488.4,566.36,18.09,18.09,
+01/04/2022 00:00,Malaysia,Malaysia,MY,506.64,583.42,15.93,15.93,
+01/05/2022 00:00,Malaysia,Malaysia,MY,499.18,577.24,16.23,16.23,
+01/06/2022 00:00,Malaysia,Malaysia,MY,499.42,576.87,16.07,16.07,
+01/07/2022 00:00,Malaysia,Malaysia,MY,493.63,568.64,18.22,18.22,
+01/08/2022 00:00,Malaysia,Malaysia,MY,486.66,562.17,18.53,18.53,
+01/09/2022 00:00,Malaysia,Malaysia,MY,480.14,556.94,18.33,18.33,
+01/10/2022 00:00,Malaysia,Malaysia,MY,492.05,566.7,19.09,19.09,
+01/11/2022 00:00,Malaysia,Malaysia,MY,474.26,551.86,18.46,18.46,
+01/12/2022 00:00,Malaysia,Malaysia,MY,463.4,538.44,21.37,21.37,

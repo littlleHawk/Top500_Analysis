@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2022-01-01 00:00:00,Canada,Québec,CA-QC,1.49,28.19,99.61,98.67,Electricity Maps Estimation; hydroquebec.com
+2022-02-01 00:00:00,Canada,Québec,CA-QC,0.75,27.31,99.80,99.13,Electricity Maps Estimation; hydroquebec.com
+2022-03-01 00:00:00,Canada,Québec,CA-QC,0.19,27.00,99.95,99.69,Electricity Maps Estimation; hydroquebec.com
+2022-04-01 00:00:00,Canada,Québec,CA-QC,0.09,27.76,99.98,99.38,Electricity Maps Estimation; hydroquebec.com
+2022-05-01 00:00:00,Canada,Québec,CA-QC,0.12,29.23,99.97,99.28,Electricity Maps Estimation; hydroquebec.com
+2022-06-01 00:00:00,Canada,Québec,CA-QC,0.07,29.71,99.98,99.14,hydroquebec.com
+2022-07-01 00:00:00,Canada,Québec,CA-QC,0.02,28.69,100.00,99.88,hydroquebec.com
+2022-08-01 00:00:00,Canada,Québec,CA-QC,0.01,28.57,100.00,99.92,hydroquebec.com
+2022-09-01 00:00:00,Canada,Québec,CA-QC,0.04,28.89,99.99,99.80,hydroquebec.com
+2022-10-01 00:00:00,Canada,Québec,CA-QC,0.05,28.64,99.99,99.76,hydroquebec.com
+2022-11-01 00:00:00,Canada,Québec,CA-QC,0.18,28.04,99.95,99.56,Electricity Maps Estimation; hydroquebec.com
+2022-12-01 00:00:00,Canada,Québec,CA-QC,0.50,27.95,99.87,99.41,Electricity Maps Estimation; hydroquebec.com

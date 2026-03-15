@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2023-01-01 00:00:00,Finland,Finland,FI,85.53,122.90,87.17,56.54,entsoe.eu; Electricity Maps Estimation
+2023-02-01 00:00:00,Finland,Finland,FI,87.51,124.93,86.59,58.48,entsoe.eu; Electricity Maps Estimation
+2023-03-01 00:00:00,Finland,Finland,FI,82.63,117.75,87.48,51.71,entsoe.eu; Electricity Maps Estimation
+2023-04-01 00:00:00,Finland,Finland,FI,52.25,84.65,91.69,46.39,entsoe.eu; Electricity Maps Estimation
+2023-05-01 00:00:00,Finland,Finland,FI,29.42,55.31,95.11,54.08,entsoe.eu
+2023-06-01 00:00:00,Finland,Finland,FI,21.55,43.28,96.22,45.00,entsoe.eu
+2023-07-01 00:00:00,Finland,Finland,FI,16.66,40.68,96.91,42.07,entsoe.eu
+2023-08-01 00:00:00,Finland,Finland,FI,36.30,64.32,94.13,49.49,entsoe.eu
+2023-09-01 00:00:00,Finland,Finland,FI,21.47,43.38,96.28,55.55,entsoe.eu
+2023-10-01 00:00:00,Finland,Finland,FI,29.27,54.79,95.28,52.56,entsoe.eu
+2023-11-01 00:00:00,Finland,Finland,FI,60.12,91.33,90.79,50.99,entsoe.eu; Electricity Maps Estimation
+2023-12-01 00:00:00,Finland,Finland,FI,70.15,103.21,89.10,47.85,entsoe.eu; Electricity Maps Estimation

@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2022-01-01 00:00:00,Denmark,Denmark,DK,147.97,208.36,79.69,75.29,entsoe.eu
+2022-02-01 00:00:00,Denmark,Denmark,DK,123.77,179.30,83.34,79.40,entsoe.eu
+2022-03-01 00:00:00,Denmark,Denmark,DK,167.97,235.64,77.16,69.08,entsoe.eu
+2022-04-01 00:00:00,Denmark,Denmark,DK,139.66,198.77,81.51,73.74,entsoe.eu
+2022-05-01 00:00:00,Denmark,Denmark,DK,116.56,167.93,84.05,75.62,entsoe.eu
+2022-06-01 00:00:00,Denmark,Denmark,DK,102.54,150.61,85.55,76.37,entsoe.eu
+2022-07-01 00:00:00,Denmark,Denmark,DK,73.60,116.11,89.59,78.46,entsoe.eu
+2022-08-01 00:00:00,Denmark,Denmark,DK,104.07,157.61,85.20,73.51,entsoe.eu
+2022-09-01 00:00:00,Denmark,Denmark,DK,142.07,200.13,80.61,74.17,entsoe.eu
+2022-10-01 00:00:00,Denmark,Denmark,DK,114.02,163.29,82.91,76.25,entsoe.eu
+2022-11-01 00:00:00,Denmark,Denmark,DK,104.12,155.72,85.43,81.04,entsoe.eu
+2022-12-01 00:00:00,Denmark,Denmark,DK,179.92,252.12,74.92,71.06,entsoe.eu

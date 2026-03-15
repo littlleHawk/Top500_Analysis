@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2024 00:00,South Africa,South Africa,ZA,630.86,687.22,18.46,14.33,Electricity Maps Estimation; eskom.co.za
+01/02/2024 00:00,South Africa,South Africa,ZA,637.72,696.27,17.02,12.8,Electricity Maps Estimation; eskom.co.za
+01/03/2024 00:00,South Africa,South Africa,ZA,659.04,716.23,14.6,10.52,Electricity Maps Estimation; eskom.co.za
+01/04/2024 00:00,South Africa,South Africa,ZA,653.99,710.64,15.37,11.26,Electricity Maps Estimation; eskom.co.za
+01/05/2024 00:00,South Africa,South Africa,ZA,669.61,725.37,13.96,9.94,eskom.co.za
+01/06/2024 00:00,South Africa,South Africa,ZA,669.08,726.79,13.56,10.03,Electricity Maps Estimation; eskom.co.za
+01/07/2024 00:00,South Africa,South Africa,ZA,672.65,728.35,13.45,9.85,Electricity Maps Estimation; eskom.co.za
+01/08/2024 00:00,South Africa,South Africa,ZA,660.03,715.08,15.3,11.49,eskom.co.za
+01/09/2024 00:00,South Africa,South Africa,ZA,666.58,726.12,13.16,11.14,Electricity Maps Estimation; eskom.co.za
+01/10/2024 00:00,South Africa,South Africa,ZA,650.87,706.41,16,12.14,Electricity Maps Estimation; eskom.co.za
+01/11/2024 00:00,South Africa,South Africa,ZA,653.5,709.81,15.19,11.36,eskom.co.za
+01/12/2024 00:00,South Africa,South Africa,ZA,642.06,700.69,16.22,12.21,Electricity Maps Estimation; eskom.co.za

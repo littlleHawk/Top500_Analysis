@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2024 00:00,Saudi Arabia,Saudi Arabia,SA,381.82,549.95,0.63,0.63,Electricity Maps Estimation
+01/02/2024 00:00,Saudi Arabia,Saudi Arabia,SA,383.2,557.56,0.75,0.75,Electricity Maps Estimation
+01/03/2024 00:00,Saudi Arabia,Saudi Arabia,SA,381.66,548.7,0.58,0.58,Electricity Maps Estimation
+01/04/2024 00:00,Saudi Arabia,Saudi Arabia,SA,383.1,555.81,0.64,0.64,Electricity Maps Estimation
+01/05/2024 00:00,Saudi Arabia,Saudi Arabia,SA,383.04,555.77,0.66,0.66,Electricity Maps Estimation
+01/06/2024 00:00,Saudi Arabia,Saudi Arabia,SA,382.48,553.56,0.69,0.69,Electricity Maps Estimation
+01/07/2024 00:00,Saudi Arabia,Saudi Arabia,SA,382.85,553.58,0.55,0.55,Electricity Maps Estimation
+01/08/2024 00:00,Saudi Arabia,Saudi Arabia,SA,382.79,554.28,0.63,0.63,Electricity Maps Estimation
+01/09/2024 00:00,Saudi Arabia,Saudi Arabia,SA,382.4,551.28,0.52,0.52,Electricity Maps Estimation
+01/10/2024 00:00,Saudi Arabia,Saudi Arabia,SA,382.89,553.37,0.52,0.52,Electricity Maps Estimation
+01/11/2024 00:00,Saudi Arabia,Saudi Arabia,SA,382.42,551.32,0.52,0.52,Electricity Maps Estimation
+01/12/2024 00:00,Saudi Arabia,Saudi Arabia,SA,382.25,551.27,0.58,0.58,Electricity Maps Estimation

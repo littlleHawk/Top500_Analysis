@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2022 00:00,Mexico,Mexico,MX,295.73,389.46,23.67,19.78,cenace.gob.mx
+01/02/2022 00:00,Mexico,Mexico,MX,293.94,385.31,25.33,21.1,cenace.gob.mx
+01/03/2022 00:00,Mexico,Mexico,MX,286.74,377.2,26.82,23.12,cenace.gob.mx
+01/04/2022 00:00,Mexico,Mexico,MX,294.93,388.39,24.11,22.2,cenace.gob.mx
+01/05/2022 00:00,Mexico,Mexico,MX,289.1,381.5,25.2,23.22,cenace.gob.mx
+01/06/2022 00:00,Mexico,Mexico,MX,282.49,373.33,26.81,23.37,cenace.gob.mx
+01/07/2022 00:00,Mexico,Mexico,MX,289.65,381.55,25.23,21.86,cenace.gob.mx
+01/08/2022 00:00,Mexico,Mexico,MX,281.25,371.18,27.56,24.13,cenace.gob.mx
+01/09/2022 00:00,Mexico,Mexico,MX,274.24,364.69,28.07,25.52,cenace.gob.mx
+01/10/2022 00:00,Mexico,Mexico,MX,278.4,369.48,27.19,25.13,Electricity Maps Estimation; cenace.gob.mx
+01/11/2022 00:00,Mexico,Mexico,MX,275.37,366.54,27.29,24.11,cenace.gob.mx
+01/12/2022 00:00,Mexico,Mexico,MX,285.71,377.36,25.75,21.14,cenace.gob.mx

@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2022 00:00,Luxembourg,Luxembourg,LU,328.35,401.89,61.75,54.31,Electricity Maps Estimation
+01/02/2022 00:00,Luxembourg,Luxembourg,LU,240.19,306.56,71.95,64.28,Electricity Maps Estimation
+01/03/2022 00:00,Luxembourg,Luxembourg,LU,319.83,398.04,61.54,50.72,entsoe.eu; Electricity Maps Estimation
+01/04/2022 00:00,Luxembourg,Luxembourg,LU,235.69,305.29,71.08,57.27,entsoe.eu
+01/05/2022 00:00,Luxembourg,Luxembourg,LU,222.12,294.43,72.79,57.01,entsoe.eu; Electricity Maps Estimation
+01/06/2022 00:00,Luxembourg,Luxembourg,LU,274.89,352.06,68.66,57.22,entsoe.eu
+01/07/2022 00:00,Luxembourg,Luxembourg,LU,296.37,373.58,65.24,55.15,entsoe.eu; Electricity Maps Estimation
+01/08/2022 00:00,Luxembourg,Luxembourg,LU,307.84,387.05,64.52,50.61,entsoe.eu
+01/09/2022 00:00,Luxembourg,Luxembourg,LU,354.6,430.45,62.91,53.64,entsoe.eu
+01/10/2022 00:00,Luxembourg,Luxembourg,LU,269.29,342.64,68.46,56.42,entsoe.eu
+01/11/2022 00:00,Luxembourg,Luxembourg,LU,291.81,358.7,66.44,52.63,entsoe.eu
+01/12/2022 00:00,Luxembourg,Luxembourg,LU,348.63,423.63,57.81,46.05,entsoe.eu

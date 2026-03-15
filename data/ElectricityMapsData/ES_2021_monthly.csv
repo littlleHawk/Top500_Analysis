@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2021 00:00,Spain,Spain,ES,110.54,150.08,77.42,53.87,entsoe.eu
+01/02/2021 00:00,Spain,Spain,ES,71.96,105.57,84.38,63.59,entsoe.eu
+01/03/2021 00:00,Spain,Spain,ES,92.66,131,79.8,55.9,entsoe.eu
+01/04/2021 00:00,Spain,Spain,ES,129.1,177.59,71.28,47.79,entsoe.eu
+01/05/2021 00:00,Spain,Spain,ES,109.19,151.9,76.65,51.8,entsoe.eu
+01/06/2021 00:00,Spain,Spain,ES,137.04,187.14,70.08,47.28,entsoe.eu
+01/07/2021 00:00,Spain,Spain,ES,117.43,163.15,73.94,47.21,entsoe.eu
+01/08/2021 00:00,Spain,Spain,ES,121.35,168.7,72.77,43.64,entsoe.eu
+01/09/2021 00:00,Spain,Spain,ES,156.26,210.91,65.39,37.21,entsoe.eu
+01/10/2021 00:00,Spain,Spain,ES,155.62,209.09,66.64,40.59,entsoe.eu
+01/11/2021 00:00,Spain,Spain,ES,178.36,237.73,60.53,43.94,entsoe.eu
+01/12/2021 00:00,Spain,Spain,ES,160,212.43,66.24,48.71,Electricity Maps Estimation; entsoe.eu

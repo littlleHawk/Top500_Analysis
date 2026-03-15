@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2021-01-01 00:00:00,Croatia,Croatia,HR,264.39,297.96,63.43,62.66,entsoe.eu
+2021-02-01 00:00:00,Croatia,Croatia,HR,257.17,288.97,65.43,64.88,entsoe.eu
+2021-03-01 00:00:00,Croatia,Croatia,HR,265.12,303.61,62.64,57.71,entsoe.eu
+2021-04-01 00:00:00,Croatia,Croatia,HR,198.55,231.00,69.64,59.34,entsoe.eu
+2021-05-01 00:00:00,Croatia,Croatia,HR,157.26,180.60,77.27,70.48,entsoe.eu
+2021-06-01 00:00:00,Croatia,Croatia,HR,249.41,284.91,67.26,55.37,entsoe.eu
+2021-07-01 00:00:00,Croatia,Croatia,HR,281.25,323.46,60.85,46.97,entsoe.eu
+2021-08-01 00:00:00,Croatia,Croatia,HR,270.57,309.26,63.52,48.41,entsoe.eu
+2021-09-01 00:00:00,Croatia,Croatia,HR,349.58,398.72,51.23,38.42,entsoe.eu
+2021-10-01 00:00:00,Croatia,Croatia,HR,311.69,362.60,53.94,40.87,entsoe.eu
+2021-11-01 00:00:00,Croatia,Croatia,HR,292.92,336.07,57.79,50.72,entsoe.eu
+2021-12-01 00:00:00,Croatia,Croatia,HR,239.27,268.38,69.02,63.35,entsoe.eu

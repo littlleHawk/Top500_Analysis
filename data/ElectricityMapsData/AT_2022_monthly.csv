@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2022-01-01 00:00:00,Austria,Austria,AT,233.83,282.56,64.81,59.30,entsoe.eu
+2022-02-01 00:00:00,Austria,Austria,AT,218.39,265.52,67.56,61.67,entsoe.eu
+2022-03-01 00:00:00,Austria,Austria,AT,272.23,323.91,60.70,54.09,entsoe.eu
+2022-04-01 00:00:00,Austria,Austria,AT,181.06,217.83,75.94,69.91,entsoe.eu
+2022-05-01 00:00:00,Austria,Austria,AT,140.09,171.26,81.29,76.36,entsoe.eu
+2022-06-01 00:00:00,Austria,Austria,AT,118.54,140.60,88.29,82.76,entsoe.eu
+2022-07-01 00:00:00,Austria,Austria,AT,168.02,195.44,82.01,73.67,entsoe.eu
+2022-08-01 00:00:00,Austria,Austria,AT,190.30,218.82,80.06,71.88,entsoe.eu
+2022-09-01 00:00:00,Austria,Austria,AT,200.74,237.24,73.11,66.14,Electricity Maps Estimation; entsoe.eu
+2022-10-01 00:00:00,Austria,Austria,AT,196.71,234.47,73.35,65.72,entsoe.eu
+2022-11-01 00:00:00,Austria,Austria,AT,266.04,317.57,62.85,55.14,entsoe.eu
+2022-12-01 00:00:00,Austria,Austria,AT,243.02,292.36,65.24,56.99,Electricity Maps Estimation; entsoe.eu

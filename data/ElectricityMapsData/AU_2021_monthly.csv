@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+01/01/2021 00:00,Australia,Australia,AU,531.54,587.47,25.84,25.84,
+01/02/2021 00:00,Australia,Australia,AU,537.29,593.14,25.38,25.38,
+01/03/2021 00:00,Australia,Australia,AU,536.1,592.06,25.27,25.27,
+01/04/2021 00:00,Australia,Australia,AU,541.4,598.07,24.31,24.31,
+01/05/2021 00:00,Australia,Australia,AU,533.27,590,24.84,24.84,
+01/06/2021 00:00,Australia,Australia,AU,523.48,582.23,24.4,24.4,
+01/07/2021 00:00,Australia,Australia,AU,515.01,570.92,27.26,27.26,
+01/08/2021 00:00,Australia,Australia,AU,505.34,560.66,28.92,28.92,
+01/09/2021 00:00,Australia,Australia,AU,493.47,547.39,30.96,30.96,
+01/10/2021 00:00,Australia,Australia,AU,499.64,554.05,30.31,30.31,
+01/11/2021 00:00,Australia,Australia,AU,488.85,542.51,32.02,32.02,
+01/12/2021 00:00,Australia,Australia,AU,468.84,522.97,34.59,34.59,

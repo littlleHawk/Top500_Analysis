@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2021 00:00,Russia,Europe-Ural,RU-1,414.15,376.98,28.04,5.28,so-ups.ru
+01/02/2021 00:00,Russia,Europe-Ural,RU-1,419.5,381.66,27.1,5.23,so-ups.ru
+01/03/2021 00:00,Russia,Europe-Ural,RU-1,398.13,362.96,30.82,5.63,so-ups.ru
+01/04/2021 00:00,Russia,Europe-Ural,RU-1,384.65,351.79,33.19,8.43,so-ups.ru
+01/05/2021 00:00,Russia,Europe-Ural,RU-1,363.3,333.15,36.9,12.16,so-ups.ru
+01/06/2021 00:00,Russia,Europe-Ural,RU-1,369.8,338.3,35.76,9.16,so-ups.ru
+01/07/2021 00:00,Russia,Europe-Ural,RU-1,388.74,354.84,32.45,7.69,so-ups.ru
+01/08/2021 00:00,Russia,Europe-Ural,RU-1,398.98,363.78,30.63,7.47,so-ups.ru
+01/09/2021 00:00,Russia,Europe-Ural,RU-1,376.76,344.32,34.52,6.91,so-ups.ru
+01/10/2021 00:00,Russia,Europe-Ural,RU-1,378.29,345.59,34.25,6.57,so-ups.ru
+01/11/2021 00:00,Russia,Europe-Ural,RU-1,387.34,353.64,32.7,5.75,so-ups.ru
+01/12/2021 00:00,Russia,Europe-Ural,RU-1,400.19,364.82,30.46,5.25,so-ups.ru

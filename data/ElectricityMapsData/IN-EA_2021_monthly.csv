@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2021 00:00,India,Eastern India,IN-EA,667.64,720.88,11.74,10.82,Electricity Maps Estimation
+01/02/2021 00:00,India,Eastern India,IN-EA,674.88,728.46,10.79,10.03,Electricity Maps Estimation
+01/03/2021 00:00,India,Eastern India,IN-EA,679.96,733.53,10.13,9.46,Electricity Maps Estimation
+01/04/2021 00:00,India,Eastern India,IN-EA,674.61,728.28,10.87,10.06,Electricity Maps Estimation
+01/05/2021 00:00,India,Eastern India,IN-EA,619.79,670.77,17.99,16.72,Electricity Maps Estimation
+01/06/2021 00:00,India,Eastern India,IN-EA,581.37,630.68,23.09,22.14,Electricity Maps Estimation
+01/07/2021 00:00,India,Eastern India,IN-EA,575.52,624.64,23.89,23.25,Electricity Maps Estimation
+01/08/2021 00:00,India,Eastern India,IN-EA,577.44,626.6,23.68,23.17,Electricity Maps Estimation
+01/09/2021 00:00,India,Eastern India,IN-EA,590.04,639.61,22,21.32,Electricity Maps Estimation
+01/10/2021 00:00,India,Eastern India,IN-EA,600.82,650.91,20.55,19.49,Electricity Maps Estimation
+01/11/2021 00:00,India,Eastern India,IN-EA,666.02,718.6,12.05,11.21,Electricity Maps Estimation
+01/12/2021 00:00,India,Eastern India,IN-EA,696.33,750.09,8.1,7.46,Electricity Maps Estimation

@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2024 00:00,South Korea,South Korea,KR,402.23,467.32,30.28,2.13,Electricity Maps Estimation; new.kpx.or.kr
+01/02/2024 00:00,South Korea,South Korea,KR,378.98,441,34.28,2.25,Electricity Maps Estimation; new.kpx.or.kr
+01/03/2024 00:00,South Korea,South Korea,KR,352.98,416.02,36.38,3.43,Electricity Maps Estimation; new.kpx.or.kr
+01/04/2024 00:00,South Korea,South Korea,KR,341.39,401.31,39.51,4.47,Electricity Maps Estimation; new.kpx.or.kr
+01/05/2024 00:00,South Korea,South Korea,KR,317.03,375.61,42.64,5.07,new.kpx.or.kr
+01/06/2024 00:00,South Korea,South Korea,KR,350.92,412.03,37.8,4.22,new.kpx.or.kr
+01/07/2024 00:00,South Korea,South Korea,KR,373.32,435.94,34.67,3.45,Electricity Maps Estimation; new.kpx.or.kr
+01/08/2024 00:00,South Korea,South Korea,KR,399.04,464.35,30.87,3.31,new.kpx.or.kr
+01/09/2024 00:00,South Korea,South Korea,KR,368.81,430.51,35.79,3.26,new.kpx.or.kr
+01/10/2024 00:00,South Korea,South Korea,KR,329.4,387.49,41.51,3.15,Electricity Maps Estimation; new.kpx.or.kr
+01/11/2024 00:00,South Korea,South Korea,KR,335.35,395.34,39.78,3.24,new.kpx.or.kr
+01/12/2024 00:00,South Korea,South Korea,KR,357.77,419.34,36.73,3.7,new.kpx.or.kr

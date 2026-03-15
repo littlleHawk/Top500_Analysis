@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2021 00:00,United Arab Emirates,United Arab Emirates,AE,342.5,452.36,9.83,2.45,Electricity Maps Estimation
+01/02/2021 00:00,United Arab Emirates,United Arab Emirates,AE,342.85,452.13,9.95,2.85,Electricity Maps Estimation
+01/03/2021 00:00,United Arab Emirates,United Arab Emirates,AE,332.88,439.97,12.69,5.06,Electricity Maps Estimation
+01/04/2021 00:00,United Arab Emirates,United Arab Emirates,AE,330.99,438.62,12.61,5.4,Electricity Maps Estimation
+01/05/2021 00:00,United Arab Emirates,United Arab Emirates,AE,331.58,439.42,12.47,5.8,Electricity Maps Estimation
+01/06/2021 00:00,United Arab Emirates,United Arab Emirates,AE,335.23,444.2,11.27,5.06,Electricity Maps Estimation
+01/07/2021 00:00,United Arab Emirates,United Arab Emirates,AE,337.41,447.4,11.11,5.09,Electricity Maps Estimation
+01/08/2021 00:00,United Arab Emirates,United Arab Emirates,AE,337.24,446.3,11.01,4.8,Electricity Maps Estimation
+01/09/2021 00:00,United Arab Emirates,United Arab Emirates,AE,337.04,446.26,10.8,4.23,Electricity Maps Estimation
+01/10/2021 00:00,United Arab Emirates,United Arab Emirates,AE,338.84,448.13,10.55,3.97,Electricity Maps Estimation
+01/11/2021 00:00,United Arab Emirates,United Arab Emirates,AE,342.58,452.41,9.6,2.72,Electricity Maps Estimation
+01/12/2021 00:00,United Arab Emirates,United Arab Emirates,AE,343.2,452.93,9.55,2.56,Electricity Maps Estimation

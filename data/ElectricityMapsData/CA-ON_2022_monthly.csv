@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2022-01-01 00:00:00,Canada,Ontario,CA-ON,59.31,88.46,84.00,31.76,ieso.ca; Electricity Maps Estimation
+2022-02-01 00:00:00,Canada,Ontario,CA-ON,46.88,72.48,87.35,35.54,ieso.ca; Electricity Maps Estimation
+2022-03-01 00:00:00,Canada,Ontario,CA-ON,37.60,61.02,89.85,39.38,ieso.ca; Electricity Maps Estimation
+2022-04-01 00:00:00,Canada,Ontario,CA-ON,13.29,28.73,96.42,40.16,ieso.ca; Electricity Maps Estimation
+2022-05-01 00:00:00,Canada,Ontario,CA-ON,23.67,43.57,93.63,44.27,ieso.ca; Electricity Maps Estimation
+2022-06-01 00:00:00,Canada,Ontario,CA-ON,26.21,46.03,92.91,37.85,ieso.ca; Electricity Maps Estimation
+2022-07-01 00:00:00,Canada,Ontario,CA-ON,45.69,72.15,87.65,34.65,ieso.ca; Electricity Maps Estimation
+2022-08-01 00:00:00,Canada,Ontario,CA-ON,47.76,74.58,87.09,33.05,ieso.ca; Electricity Maps Estimation
+2022-09-01 00:00:00,Canada,Ontario,CA-ON,37.45,60.93,89.89,34.90,ieso.ca; Electricity Maps Estimation
+2022-10-01 00:00:00,Canada,Ontario,CA-ON,38.26,62.57,89.68,44.68,ieso.ca; Electricity Maps Estimation
+2022-11-01 00:00:00,Canada,Ontario,CA-ON,32.65,54.73,91.23,43.73,ieso.ca; Electricity Maps Estimation
+2022-12-01 00:00:00,Canada,Ontario,CA-ON,50.35,78.07,86.39,41.27,ieso.ca; Electricity Maps Estimation

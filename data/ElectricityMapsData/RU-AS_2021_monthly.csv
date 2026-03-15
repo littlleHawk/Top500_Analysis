@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2021 00:00,Russia,East,RU-AS,318.42,389.22,45.42,45.24,Electricity Maps Estimation
+01/02/2021 00:00,Russia,East,RU-AS,315.61,386.61,45.65,45.53,Electricity Maps Estimation
+01/03/2021 00:00,Russia,East,RU-AS,322.28,392.74,45.13,44.84,Electricity Maps Estimation
+01/04/2021 00:00,Russia,East,RU-AS,321.56,391.89,45.27,44.97,Electricity Maps Estimation
+01/05/2021 00:00,Russia,East,RU-AS,315.96,386.71,45.71,45.53,Electricity Maps Estimation
+01/06/2021 00:00,Russia,East,RU-AS,325.83,395.6,45.03,44.58,Electricity Maps Estimation
+01/07/2021 00:00,Russia,East,RU-AS,321.47,391.62,45.36,45.04,Electricity Maps Estimation
+01/08/2021 00:00,Russia,East,RU-AS,233.86,293.65,59.33,59.33,Electricity Maps Estimation; so-ups.ru
+01/09/2021 00:00,Russia,East,RU-AS,277.91,344.45,51.67,51.67,so-ups.ru
+01/10/2021 00:00,Russia,East,RU-AS,340.86,417.03,40.72,40.72,so-ups.ru
+01/11/2021 00:00,Russia,East,RU-AS,342.08,418.43,40.51,40.51,Electricity Maps Estimation; so-ups.ru
+01/12/2021 00:00,Russia,East,RU-AS,305.48,376.23,46.87,46.87,Electricity Maps Estimation

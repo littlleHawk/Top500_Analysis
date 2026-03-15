@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2022-01-01 00:00:00,Czechia,Czechia,CZ,546.29,578.96,42.81,12.68,entsoe.eu
+2022-02-01 00:00:00,Czechia,Czechia,CZ,495.25,527.20,48.50,16.42,entsoe.eu
+2022-03-01 00:00:00,Czechia,Czechia,CZ,549.85,583.42,42.77,12.85,entsoe.eu
+2022-04-01 00:00:00,Czechia,Czechia,CZ,485.58,519.05,50.46,17.20,entsoe.eu
+2022-05-01 00:00:00,Czechia,Czechia,CZ,476.95,514.12,50.13,19.08,entsoe.eu
+2022-06-01 00:00:00,Czechia,Czechia,CZ,496.01,529.86,47.89,15.17,Electricity Maps Estimation; entsoe.eu
+2022-07-01 00:00:00,Czechia,Czechia,CZ,495.91,526.11,49.37,15.72,entsoe.eu
+2022-08-01 00:00:00,Czechia,Czechia,CZ,533.61,566.19,44.77,14.12,entsoe.eu
+2022-09-01 00:00:00,Czechia,Czechia,CZ,512.63,543.19,47.68,13.06,entsoe.eu
+2022-10-01 00:00:00,Czechia,Czechia,CZ,501.58,534.69,48.03,15.12,Electricity Maps Estimation; entsoe.eu
+2022-11-01 00:00:00,Czechia,Czechia,CZ,532.99,564.64,45.63,12.47,entsoe.eu
+2022-12-01 00:00:00,Czechia,Czechia,CZ,551.29,579.63,43.33,9.43,entsoe.eu

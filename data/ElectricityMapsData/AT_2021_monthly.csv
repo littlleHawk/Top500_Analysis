@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2021-01-01 00:00:00,Austria,Austria,AT,254.99,305.77,62.61,54.74,entsoe.eu
+2021-02-01 00:00:00,Austria,Austria,AT,197.05,243.04,70.25,64.40,entsoe.eu
+2021-03-01 00:00:00,Austria,Austria,AT,211.00,260.15,68.72,61.91,entsoe.eu
+2021-04-01 00:00:00,Austria,Austria,AT,185.04,230.27,73.17,67.14,entsoe.eu
+2021-05-01 00:00:00,Austria,Austria,AT,65.49,91.28,91.95,89.10,entsoe.eu
+2021-06-01 00:00:00,Austria,Austria,AT,70.71,92.93,93.54,90.18,entsoe.eu
+2021-07-01 00:00:00,Austria,Austria,AT,103.45,128.06,89.90,84.58,entsoe.eu
+2021-08-01 00:00:00,Austria,Austria,AT,104.17,126.75,90.83,85.60,entsoe.eu
+2021-09-01 00:00:00,Austria,Austria,AT,183.20,214.22,80.69,70.01,entsoe.eu
+2021-10-01 00:00:00,Austria,Austria,AT,240.08,282.62,68.66,58.21,entsoe.eu
+2021-11-01 00:00:00,Austria,Austria,AT,281.85,334.97,58.69,50.74,entsoe.eu
+2021-12-01 00:00:00,Austria,Austria,AT,252.33,304.75,61.87,55.56,entsoe.eu

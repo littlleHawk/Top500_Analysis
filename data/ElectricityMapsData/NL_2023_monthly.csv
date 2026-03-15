@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source
+01/01/2023 00:00,Netherlands,Netherlands,NL,259.38,327.61,50.4,45.68,ned.nl
+01/02/2023 00:00,Netherlands,Netherlands,NL,287.05,365.15,43.35,39.93,ned.nl
+01/03/2023 00:00,Netherlands,Netherlands,NL,250.09,318.6,50.42,46.78,ned.nl
+01/04/2023 00:00,Netherlands,Netherlands,NL,236.21,306.39,53.84,53.34,ned.nl
+01/05/2023 00:00,Netherlands,Netherlands,NL,178.17,243.73,61.39,57.1,Electricity Maps Estimation; ned.nl
+01/06/2023 00:00,Netherlands,Netherlands,NL,176.88,241.06,57.93,53.18,Electricity Maps Estimation; ned.nl
+01/07/2023 00:00,Netherlands,Netherlands,NL,152.31,210.46,64.14,59.09,Electricity Maps Estimation; ned.nl
+01/08/2023 00:00,Netherlands,Netherlands,NL,199.21,270.79,53.66,48.63,Electricity Maps Estimation; ned.nl
+01/09/2023 00:00,Netherlands,Netherlands,NL,216.91,291.96,50.73,46.34,ned.nl
+01/10/2023 00:00,Netherlands,Netherlands,NL,199.75,261.22,58.73,54.11,ned.nl
+01/11/2023 00:00,Netherlands,Netherlands,NL,219.45,282.86,56.63,52.1,ned.nl
+01/12/2023 00:00,Netherlands,Netherlands,NL,213,277.44,55.33,51.02,ned.nl
